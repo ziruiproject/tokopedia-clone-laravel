@@ -79,6 +79,23 @@
                     class="rounded-xl w-full p-5 text-2xl font-bold text-white bg-green-400"
                     type="submit">Daftar</button
                 >
+                <span class="text-lg font-semibold text-center text-gray-400">
+                    Dengan mendaftar, saya menyetujui
+                    <br />
+                    <a
+                        href="https://www.tokopedia.com/terms"
+                        class="text-green-500"
+                    >
+                        Syarat dan Ketentuan
+                    </a>
+                    serta
+                    <a
+                        href="https://www.tokopedia.com/terms"
+                        class="text-green-500"
+                    >
+                        Kebijakan Privasi
+                    </a>
+                </span>
             </div>
         </div>
     </div>
