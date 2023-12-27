@@ -38,7 +38,10 @@ class UserController extends Controller
 
     public function signUp()
     {
-        return Inertia::render('User/SignUp');
+        return Inertia::render('User/SignUp', [
+            'signUpImg' => asset('images/signup.png'),
+            'tokopediaLogo' => asset('images/tokopedia.png')
+        ]);
     }
 
     public function edit($id)
