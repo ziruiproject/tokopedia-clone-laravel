@@ -7,6 +7,6 @@
 </svelte:head>
 
 <main>
-    <h1>Welcome</h1>
+    <h1 class="text-red-900">Welcome</h1>
     <p>Hello {user}, welcome to your first Inertia app!</p>
 </main>
